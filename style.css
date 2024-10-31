@@ -1,0 +1,16 @@
+.base {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Центрируем текст внутри div */
+    line-height: 90px;
+    margin: 0 auto;
+    width: 500px; 
+}
+
+.button {
+    display: block;
+    margin: 10px auto;
+    text-align: center; 
+}
