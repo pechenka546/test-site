@@ -1,10 +1,20 @@
 .base {
-     
+    flex-direction: column; 
+    justify-content: center;
+    text-align: center; 
+    margin-top: 75px; 
+    width: 500px;
 }
-.text {
-    text-align: center;
-    color:aquamarine;
+
+.text1 {
+   font-size: 100px;
 }
-.button { 
-    text-align: center;
+.text2 {
+    font-size: x-small;
+}
+p {
+   text-align: center; 
+}
+.button {
+   
 }
